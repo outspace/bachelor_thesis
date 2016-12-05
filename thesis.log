@@ -1,0 +1,1583 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.5.14)  12 JUN 2016 23:48
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**thesis.tex
+(./thesis.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+(./bachelor_thesis.cls
+Document Class: bachelor_thesis 2015/12/24 v3.0 Клас для написання пояснювально
+ї записки
+(/usr/share/texlive/texmf-dist/tex/latex/extsizes/extreport.cls
+Document Class: extreport 1996/10/08 v1.0 Non Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/extsizes/size14.clo
+File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/exscale.sty
+Package: exscale 2014/09/29 v2.1h Standard LaTeX package exscale
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+\big@size=\dimen102
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen103
+)
+(/usr/share/texlive/texmf-dist/tex/latex/cmap/cmap.sty
+Package: cmap 2008/03/06 v1.0h CMap support: searchable PDF
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2aenc.def
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+)
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 105.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)<<t2a.cmap>>)
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/cp1251.def
+File: cp1251.def 2014/10/28 v1.0d Input encoding file
+))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2016/02/24 3.9q The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel-russian/russianb.ldf
+Language: russianb 2016/02/18 1.3h Russian support for the Babel system
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2016/02/24 3.9q Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen104
+)
+Package babel Info: Making " an active character on input line 111.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel-ukraineb/ukraineb.ldf
+Language: ukraineb 2008/03/21 v1.1l Ukrainian support from the babel system
+LaTeX Info: Redefining \textcyrillic on input line 138.
+))
+(/home/outspace/.texmf-var/tex/latex/pscyr/pscyr.sty
+Package: pscyr 2002/07/04 v0.4d Cyrillic Type1 fonts as default
+)
+(/usr/share/texlive/texmf-dist/tex/latex/t2/mathtext.sty
+Package: mathtext 1999/01/28 v1.0 transparent text-and-math defs
+LaTeX Info: Redefining \halign on input line 111.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks16
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/03/03 v2.15a AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen105
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen106
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count89
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count90
+\leftroot@=\count91
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count92
+\DOTSCASE@=\count93
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 630.
+\symOMLletters=\mathgroup6
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 631.
+\symOMSletters=\mathgroup7
+\macc@depth=\count94
+\c@MaxMatrixCols=\count95
+\dotsspace@=\muskip10
+\c@parentequation=\count96
+\dspbrk@lvl=\count97
+\tag@help=\toks18
+\row@=\count98
+\column@=\count99
+\maxfields@=\count100
+\andhelp@=\toks19
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks20
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2735.
+LaTeX Info: Redefining \] on input line 2736.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2015/03/04 v2.20.2
+\thm@style=\toks22
+\thm@bodyfont=\toks23
+\thm@headfont=\toks24
+\thm@notefont=\toks25
+\thm@headpunct=\toks26
+\thm@preskip=\skip46
+\thm@postskip=\skip47
+\thm@headsep=\skip48
+\dth@everypar=\toks27
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+\symTS1letters=\mathgroup8
+)
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/was/upgreek.sty
+Package: upgreek 2003/02/12 v2.0 (WaS)
+Package upgreek Info: Using Euler Roman for upright Greek on input line 31.
+\symugrf@m=\mathgroup9
+LaTeX Font Info:    Overwriting symbol font `ugrf@m' in version `bold'
+(Font)                  U/eur/m/n --> U/eur/b/n on input line 38.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks28
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 95.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count101
+))
+\Gin@req@height=\dimen114
+\Gin@req@width=\dimen115
+)
+(/usr/share/texlive/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen116
+\captionmargin@=\dimen117
+\captionwidth=\dimen118
+\caption@tempdima=\dimen119
+\caption@indent=\dimen120
+\caption@parindent=\dimen121
+\caption@hangindent=\dimen122
+)
+\c@ContinuedFloat=\count102
+)
+\c@KVtest=\count103
+\sf@farskip=\skip49
+\sf@captopadj=\dimen123
+\sf@capskip=\skip50
+\sf@nearskip=\skip51
+\c@subfigure=\count104
+\c@subfigure@save=\count105
+\c@lofdepth=\count106
+\c@subtable=\count107
+\c@subtable@save=\count108
+\c@lotdepth=\count109
+\sf@top=\skip52
+\sf@bottom=\skip53
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/flafter.sty
+Package: flafter 2015/09/05 v1.3a Standard LaTeX floats after reference (FMi)
+Applying: [2015/01/01] float order in 2-column on input line 49.
+Already applied: [0000/00/00] float order in 2-column on input line 151.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xtab/xtab.sty
+Package: xtab 2011/07/31 v2.3f Extended supertabular package
+\c@tracingst=\count110
+\PWSTcapht=\dimen124
+\ST@wd=\dimen125
+\ST@rightskip=\skip54
+\ST@leftskip=\skip55
+\ST@parfillskip=\skip56
+\c@PWSTtable=\count111
+\PWSTlastpage=\count112
+\PWSTpenultimate=\count113
+\PWSTcurpage=\count114
+\PWSTtempc=\count115
+\PWSTlines=\count116
+\PWST@lastht=\dimen126
+\PWST@generalht=\dimen127
+\PWST@ht=\dimen128
+\ST@pageleft=\dimen129
+\ST@headht=\dimen130
+\ST@tailht=\dimen131
+\ST@pagesofar=\dimen132
+\ST@pboxht=\dimen133
+\ST@lineht=\dimen134
+\ST@stretchht=\dimen135
+\ST@prevht=\dimen136
+\ST@toadd=\dimen137
+\ST@dimen=\dimen138
+\ST@pbox=\box28
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip57
+\LTright=\skip58
+\LTpre=\skip59
+\LTpost=\skip60
+\LTchunksize=\count117
+\LTcapwidth=\dimen139
+\LT@head=\box29
+\LT@firsthead=\box30
+\LT@foot=\box31
+\LT@lastfoot=\box32
+\LT@cols=\count118
+\LT@rows=\count119
+\c@LT@tables=\count120
+\c@LT@chunks=\count121
+\LT@p@ftn=\toks29
+)
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen140
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen141
+\extrarowheight=\dimen142
+\NC@list=\toks30
+\extratabsurround=\skip61
+\backup@length=\skip62
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count122
+\Gm@cntv=\count123
+\c@Gm@tempcnt=\count124
+\Gm@bindingoffset=\dimen143
+\Gm@wd@mp=\dimen144
+\Gm@odd@mp=\dimen145
+\Gm@even@mp=\dimen146
+\Gm@layoutwidth=\dimen147
+\Gm@layoutheight=\dimen148
+\Gm@layouthoffset=\dimen149
+\Gm@layoutvoffset=\dimen150
+\Gm@dimlist=\toks31
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hanging/hanging.sty
+Package: hanging 2009/09/02 v1.2b hanging paragraphs and punctuation
+\h@ngcommawd=\skip63
+\h@ngfstopwd=\skip64
+\h@ngquotewd=\skip65
+\h@ngdquotewd=\skip66
+\h@ngquerywd=\skip67
+\h@ngexclwd=\skip68
+\h@ngcolonwd=\skip69
+\h@ngscolonwd=\skip70
+)
+(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip71
+\enit@outerparindent=\dimen151
+\enit@toks=\toks32
+\enit@inbox=\box33
+\enitdp@description=\count125
+)
+(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip72
+\f@ncyO@elh=\skip73
+\f@ncyO@erh=\skip74
+\f@ncyO@olh=\skip75
+\f@ncyO@orh=\skip76
+\f@ncyO@elf=\skip77
+\f@ncyO@erf=\skip78
+\f@ncyO@olf=\skip79
+\f@ncyO@orf=\skip80
+)
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count126
+)
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2016/03/15 v2.10.1 Sectioning titles
+\ttl@box=\box34
+\beforetitleunit=\skip81
+\aftertitleunit=\skip82
+\ttl@plus=\dimen152
+\ttl@minus=\dimen153
+\ttl@toksa=\toks33
+\titlewidth=\dimen154
+\titlewidthlast=\dimen155
+\titlewidthfirst=\dimen156
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2013/05/02 v2.3f parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 44.
+\cftparskip=\skip83
+\cftbeforetoctitleskip=\skip84
+\cftaftertoctitleskip=\skip85
+\cftbeforepartskip=\skip86
+\cftpartnumwidth=\skip87
+\cftpartindent=\skip88
+\cftbeforechapskip=\skip89
+\cftchapindent=\skip90
+\cftchapnumwidth=\skip91
+\cftbeforesecskip=\skip92
+\cftsecindent=\skip93
+\cftsecnumwidth=\skip94
+\cftbeforesubsecskip=\skip95
+\cftsubsecindent=\skip96
+\cftsubsecnumwidth=\skip97
+\cftbeforesubsubsecskip=\skip98
+\cftsubsubsecindent=\skip99
+\cftsubsubsecnumwidth=\skip100
+\cftbeforeparaskip=\skip101
+\cftparaindent=\skip102
+\cftparanumwidth=\skip103
+\cftbeforesubparaskip=\skip104
+\cftsubparaindent=\skip105
+\cftsubparanumwidth=\skip106
+\cftbeforeloftitleskip=\skip107
+\cftafterloftitleskip=\skip108
+\cftbeforefigskip=\skip109
+\cftfigindent=\skip110
+\cftfignumwidth=\skip111
+\cftbeforelottitleskip=\skip112
+\cftafterlottitleskip=\skip113
+\cftbeforetabskip=\skip114
+\cfttabindent=\skip115
+\cfttabnumwidth=\skip116
+\cftbeforesubfigskip=\skip117
+\cftsubfigindent=\skip118
+\cftsubfignumwidth=\skip119
+\cftbeforesubtabskip=\skip120
+\cftsubtabindent=\skip121
+\cftsubtabnumwidth=\skip122
+)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/was/icomma.sty
+Package: icomma 2002/03/10 v2.0 (WaS)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count127
+\lst@gtempboxa=\box35
+\lst@token=\toks34
+\lst@length=\count128
+\lst@currlwidth=\dimen157
+\lst@column=\count129
+\lst@pos=\count130
+\lst@lostspace=\dimen158
+\lst@width=\dimen159
+\lst@newlines=\count131
+\lst@lineno=\count132
+\lst@maxwidth=\dimen160
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count133
+\lst@skipnumbers=\count134
+\lst@framebox=\box36
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks35
+\XKV@tempa@toks=\toks36
+)
+\XKV@depth=\count135
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen161
+\Hy@linkcounter=\count136
+\Hy@pagecounter=\count137
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+\symPD1letters=\mathgroup10
+)
+\Hy@SavedSpaceFactor=\count138
+Package hyperref Info: Option `unicode' set `true' on input line 3411.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2012/11/06 v6.83m Hyperref: PDF Unicode definition (HO)
+\symPUletters=\mathgroup11
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count139
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen162
+\Fld@menulength=\count140
+\Field@Width=\dimen163
+\Fld@charsize=\dimen164
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count141
+\c@Item=\count142
+\c@Hfootnote=\count143
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count144
+\c@bookmark@seq@number=\count145
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip123
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks37
+\verbatim@line=\toks38
+\verbatim@in@stream=\read1
+)
+\c@appendnum=\count146
+
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/block.tss
+File: block.tss 2016/03/15
+)) (./thesis.aux)
+\openout1 = `thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 9.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Try loading font information for T2A+ftm on input line 9.
+
+(/home/outspace/.texmf-var/tex/latex/pscyr/t2aftm.fd
+File: t2aftm.fd 2001/12/09 Fontinst v1.914 font definitions for T2A/ftm.
+)
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count147
+\scratchdimen=\dimen165
+\scratchbox=\box37
+\nofMPsegments=\count148
+\nofMParguments=\count149
+\everyMPshowfont=\toks39
+\MPscratchCnt=\count150
+\MPscratchDim=\dimen166
+\MPnumerator=\count151
+\makeMPintoPDFobject=\count152
+\everyMPtoPDFconversion=\toks40
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
+)
+Package caption Info: xtab package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead 
+* h-part:(L,W,R)=(56.9055pt, 512.14963pt, 28.45274pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=512.14963pt
+* \textheight=717.23584pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-15.36449pt
+* \headheight=14.0pt
+* \headsep=0.0pt
+* \topskip=14.0pt
+* \footskip=0.0pt
+* \marginparwidth=15.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=12.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\c@lstlisting=\count153
+\AtBeginShipoutBox=\box38
+Package hyperref Info: Link coloring OFF on input line 9.
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count154
+)
+LaTeX Info: Redefining \ref on input line 9.
+LaTeX Info: Redefining \pageref on input line 9.
+LaTeX Info: Redefining \nameref on input line 9.
+
+(./thesis.out) (./thesis.out)
+\@outlinefile=\write3
+\openout3 = `thesis.out'.
+
+\c@algorithm1=\count155
+
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 17.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 42.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 42.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 42.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 42.
+[1{/home/outspace/.texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+
+]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 62.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 62.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 62.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 62.
+ [2
+
+]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 80.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 80.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 80.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 80.
+ [3
+
+]
+(./thesis.toc
+LaTeX Font Info:    Try loading font information for OT1+ftm on input line 1.
+ (/home/outspace/.texmf-var/tex/latex/pscyr/ot1ftm.fd
+File: ot1ftm.fd 2001/12/09 Fontinst v1.914 font definitions for OT1/ftm.
+)<<ot1.cmap>>
+LaTeX Font Info:    Calculating math sizes for size <14> on input line 2.
+<<oml.cmap>><<oms.cmap>><<omx.cmap>>
+LaTeX Font Info:    Try loading font information for U+msa on input line 2.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 2.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for OML+faq on input line 2.
+
+(/home/outspace/.texmf-var/tex/latex/pscyr/omlfaq.fd
+File: omlfaq.fd 2004/01/30 Fontinst v1.914 font definitions for OML/faq.
+)
+
+LaTeX Font Warning: Font shape `OML/faq/m/n' undefined
+(Font)              using `OML/faq/m/it' instead on input line 2.
+
+LaTeX Font Info:    Try loading font information for OMS+faq on input line 2.
+LaTeX Font Info:    No file OMSfaq.fd. on input line 2.
+
+LaTeX Font Warning: Font shape `OMS/faq/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead on input line 2.
+
+LaTeX Font Info:    Try loading font information for TS1+faq on input line 2.
+LaTeX Font Info:    No file TS1faq.fd. on input line 2.
+
+LaTeX Font Warning: Font shape `TS1/faq/m/n' undefined
+(Font)              using `TS1/cmr/m/n' instead on input line 2.
+
+LaTeX Font Info:    Try loading font information for PD1+faq on input line 2.
+LaTeX Font Info:    No file PD1faq.fd. on input line 2.
+
+LaTeX Font Warning: Font shape `PD1/faq/m/n' undefined
+(Font)              using `PD1/pdf/m/n' instead on input line 2.
+
+LaTeX Font Info:    Try loading font information for PU+faq on input line 2.
+LaTeX Font Info:    No file PUfaq.fd. on input line 2.
+
+LaTeX Font Warning: Font shape `PU/faq/m/n' undefined
+(Font)              using `PU/pdf/m/n' instead on input line 2.
+
+)
+\tf@toc=\write4
+\openout4 = `thesis.toc'.
+
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 83.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 83.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 83.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 83.
+ [4
+
+]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 83.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 83.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 83.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 83.
+ [5]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 83.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 83.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 95.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 95.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 95.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 95.
+ [6
+
+]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 95.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 95.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 128.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 128.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 128.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 128.
+ [7
+
+]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 153.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 153.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 153.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 153.
+ [8]
+{\Ukrainian \CYRR \cyro \cyrz \cyrd \cyrii \cyrl } 1.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 153.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 153.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 159.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 159.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 181.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 181.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 181.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 181.
+[9
+
+]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 216.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 216.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 216.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 216.
+ [10]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 255.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 255.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 255.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 255.
+ [11]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 299.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 299.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 299.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 299.
+ [12]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 301.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 301.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 318.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 318.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 318.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 318.
+ [13]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 353.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 353.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 353.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 353.
+ [14]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 354.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 354.
+ <PNG/DSTU.png, id=234, 280.79906pt x 295.85532pt>
+File: PNG/DSTU.png Graphic file (type png)
+
+<use PNG/DSTU.png>
+Package pdftex.def Info: PNG/DSTU.png used on input line 362.
+(pdftex.def)             Requested size: 252.71681pt x 266.26732pt.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 386.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 386.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 386.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 386.
+ [15]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 386.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 386.
+
+Overfull \vbox (302.02988pt too high) has occurred while \output is active []
+
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 420.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 420.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 420.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 420.
+
+[16 <./PNG/DSTU.png>]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 446.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 446.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 446.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 446.
+ [17]
+{\Ukrainian \CYRR \cyro \cyrz \cyrd \cyrii \cyrl } 2.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 446.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 446.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 474.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 474.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 478.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 478.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 478.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 478.
+[18
+
+]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 501.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 501.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 501.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 501.
+ [19]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 551.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 551.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 551.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 551.
+ [20]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 563.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 563.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 563.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 563.
+
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 587.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 587.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 587.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 587.
+[21]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 600.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 600.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 612.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 612.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 612.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 612.
+ [22]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 660.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 660.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 660.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 660.
+ [23]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 666.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 666.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 666.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 666.
+
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 683.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 683.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 688.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 688.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 688.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 688.
+[24]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 714.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 714.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 714.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 714.
+ [25]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 743.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 743.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 743.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 743.
+ [26]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 745.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 745.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 751.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 751.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 751.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 751.
+
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 765.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 765.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 765.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 765.
+[27]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 765.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 765.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 765.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 765.
+
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 788.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 788.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 788.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 788.
+[28]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 788.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 788.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 788.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 788.
+ [29]
+{\Ukrainian \CYRR \cyro \cyrz \cyrd \cyrii \cyrl } 3.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 788.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 788.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 795.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 795.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 795.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 795.
+
+<PNG/zeros.png, id=351, 455.45157pt x 255.95625pt>
+File: PNG/zeros.png Graphic file (type png)
+ <use PNG/zeros.png>
+Package pdftex.def Info: PNG/zeros.png used on input line 813.
+(pdftex.def)             Requested size: 318.81392pt x 179.16814pt.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 820.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 820.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 820.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 820.
+ [30
+
+]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 821.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 821.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 837.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 837.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 837.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 837.
+
+[31 <./PNG/zeros.png (PNG copy)>]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 870.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 870.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 870.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 870.
+ [32]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 912.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 912.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 912.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 912.
+ [33]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 918.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 918.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 927.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 927.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 927.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 927.
+ [34]
+LaTeX Font Info:    Try loading font information for TS1+ftm on input line 935.
+
+LaTeX Font Info:    No file TS1ftm.fd. on input line 935.
+
+
+LaTeX Font Warning: Font shape `TS1/ftm/m/n' undefined
+(Font)              using `TS1/cmr/m/n' instead
+(Font)              for symbol `textregistered' on input line 935.
+
+<PNG/zerosDSTU129.png, id=380, 478.03593pt x 261.97874pt>
+File: PNG/zerosDSTU129.png Graphic file (type png)
+
+<use PNG/zerosDSTU129.png>
+Package pdftex.def Info: PNG/zerosDSTU129.png used on input line 943.
+(pdftex.def)             Requested size: 478.03476pt x 261.9781pt.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 956.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 956.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 956.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 956.
+ [35]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 959.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 959.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 959.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 959.
+ [36 <./PNG/zerosDSTU129.png (PNG copy)>]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 959.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 959.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 980.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 980.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 980.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 980.
+
+[37
+
+]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 980.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 980.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 1005.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 1005.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 1005.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 1005.
+ [38
+
+]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 1019.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 1019.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 1019.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 1019.
+ [39]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 1019.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 1019.
+ (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+)
+(./SRC/Kalyna/Kalyna.cpp
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 83.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 83.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 83.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 83.
+ [40
+
+]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 186.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 186.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 186.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 186.
+ [41]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 285.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 285.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 285.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 285.
+ [42]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 386.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 386.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 386.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 386.
+ [43]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 487.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 487.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 487.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 487.
+ [44]
+
+LaTeX Font Warning: Font shape `TS1/ftm/m/it' undefined
+(Font)              using `TS1/ftm/m/n' instead
+(Font)              for symbol `textasteriskcentered' on input line 488.
+
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 590.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 590.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 590.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 590.
+[45]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 690.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 690.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 690.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 690.
+ [46]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 791.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 791.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 791.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 791.
+ [47]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 892.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 892.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 892.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 892.
+ [48]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 992.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 992.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 992.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 992.
+ [49]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 1093.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 1093.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 1093.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 1093.
+ [50]
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 1194.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 1194.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 1194.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 1194.
+ [51])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1030.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 1030.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 1030.
+Package babel Info: Redefining ukrainian shorthand "|
+(babel)             in language  on input line 1030.
+Package babel Info: Redefining ukrainian shorthand "~
+(babel)             in language  on input line 1030.
+ [52]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1030.
+ (./thesis.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1030.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1030.
+
+Package rerunfilecheck Info: File `thesis.out' has not changed.
+(rerunfilecheck)             Checksum: C7742F3E942E54936D9D8A7E8D07C913;9207.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 18707 strings out of 493029
+ 262335 string characters out of 6136234
+ 1545563 words of memory out of 5000000
+ 20535 multiletter control sequences out of 15000+600000
+ 36452 words of font info for 96 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 51i,14n,102p,1400b,2053s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/home/outspace/.
+texmf-var/fonts/enc/t2a.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cmextra/cmex7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmm
+i12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf/fonts/type1/public/cm-s
+uper/sfrm0600.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></
+home/outspace/.texmf-var/fonts/type1/public/pscyr/times.pfb></home/outspace/.te
+xmf-var/fonts/type1/public/pscyr/timesbd.pfb></home/outspace/.texmf-var/fonts/t
+ype1/public/pscyr/timesi.pfb>
+Output written on thesis.pdf (52 pages, 418411 bytes).
+PDF statistics:
+ 2039 PDF objects out of 2073 (max. 8388607)
+ 1940 compressed objects within 20 object streams
+ 1364 named destinations out of 1440 (max. 500000)
+ 220 words of extra memory for PDF output out of 10000 (max. 10000000)
+
